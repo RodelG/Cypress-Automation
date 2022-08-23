@@ -1,0 +1,24 @@
+{
+  "name": "cypress-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --spec \"**/*.feature\"",
+    "test:all": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "react-scripts": "^3.4.1",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false
+  },
+  "dependencies": {
+    "react-scripts": "^2.1.3"
+  }
+}

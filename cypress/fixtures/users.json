@@ -1,0 +1,25 @@
+[
+  {
+    "customerName": "Leanne Graham",
+    "gender": "m",
+    "dob": "1949-11-11",
+    "address": "test address",
+    "city": "test city",
+    "state": "test state",
+    "pin": "121131",
+    "mobileNumber": "1212121212121",
+    "email": "testemail25@yopmail.com",
+    "password": "Testing@123"
+  },
+  {
+  "customerName": "1213131",
+  "gender": "f",
+  "address": "!@!#!#!#!#!",
+  "city": "  ",
+  "state": "31",
+  "pin": "3141",
+  "mobileNumber": "fadfad",
+  "email": "fd",
+  "password": "Testing@123"
+  }
+]
